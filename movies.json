@@ -7,5 +7,23 @@
       "runtime": "123",
       "genre": "Drama",
       "id": 1
-    }
+    },
+    {
+        "title": "Old Yeller",
+        "directors": "John Smith",
+        "releaseDate": "2013-12-25",
+        "rating": "R",
+        "runtime": "123",
+        "genre": "Drama",
+        "id": 2
+      },
+      {
+        "title": "Hello Darkness my old friend",
+        "directors": "John Smith",
+        "releaseDate": "2013-12-25",
+        "rating": "R",
+        "runtime": "123",
+        "genre": "Horror",
+        "id": 3
+      }
 ]
